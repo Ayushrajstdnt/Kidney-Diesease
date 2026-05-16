@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kidney-Disease-Classification-MLflow-DVC
 
 
@@ -181,3 +182,6 @@ DVC
     ECR_REPOSITORY_NAME = simple-app
 
 
+=======
+# Kidney-Diesease
+>>>>>>> ab85043880f9db8cc96ac0872c0d94580b498ce9
